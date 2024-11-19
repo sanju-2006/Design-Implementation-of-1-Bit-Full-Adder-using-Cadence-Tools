@@ -1,5 +1,5 @@
-# Design-Implementation-of-1-Bit-Full-Adder-using-Cadence-Tools
-Ex No: 04     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
+
+Ex No: 05     Design & Implementation of 1 Bit Full Adder Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 1-bit full adder circuit using Cadence EDA tools and to understand its behavior in digital arithmetic operations.
@@ -7,6 +7,12 @@ To design and implement a 1-bit full adder circuit using Cadence EDA tools and t
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+CIRCUIT DIAGRAM:
+
+![WhatsApp Image 2024-11-19 at 18 18 13_61b48777](https://github.com/user-attachments/assets/3ae5a30a-b1dc-4b16-b2b9-b54270498c3a)
+
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
@@ -100,6 +106,9 @@ Analog simulation by SPECTRE.
 
 
 For Transient Analysis Settings and Output
+
+![image](https://github.com/user-attachments/assets/10263faa-840c-4283-8f81-5ca416ba2ab6)
+
  
 ![WhatsApp Image 2024-11-18 at 17 23 56_5e2be5f1](https://github.com/user-attachments/assets/c84aabb8-7d07-4223-ae0f-dce368741588)
 
